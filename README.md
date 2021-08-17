@@ -1,6 +1,7 @@
 # final project
 
-video
+## presentation
+video ->
 
 ## schemtics
 
