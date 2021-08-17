@@ -1,4 +1,4 @@
-# final project
+# Time/sound collecting (final project)
 
 ## presentation
 video ->
